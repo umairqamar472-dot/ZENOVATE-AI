@@ -1,0 +1,6 @@
+{
+  "name": "Zenovate AI",
+  "description": "Natural Language Video Editor (NLVE) for mobile content creators. Edit videos, slice silences, insert scraped assets, and transform canvas using voice & text commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
